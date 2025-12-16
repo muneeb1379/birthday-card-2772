@@ -99,7 +99,7 @@ body{
 
 
 .card1:hover{
-    height: 560px;
+    height: 570px;
 }
 
 
@@ -113,7 +113,7 @@ body{
 
 @media (max-width:385px) {
     .card{
-        width: 280px;
+        width: 300px;
     }
 
     .card .imgbx{
@@ -126,7 +126,7 @@ body{
     }
 
     .card1:hover{
-    height: 530px;
+    height: 570px;
 }
 
 
