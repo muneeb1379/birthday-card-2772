@@ -99,16 +99,16 @@ body{
 
 
 .card1:hover{
-    height: 540px;
+    height: 670px;
 }
 
 
 .card2:hover{
-    height: 1350px;
+    height: 1830px;
 }
 
 .card3:hover{
-    height: 970px;
+    height: 1240px;
 }
 
 @media (max-width:385px) {
@@ -118,6 +118,6 @@ body{
 
     .card .imgbx{
         width: 100%;
-        width: 100%;
+        height: 100%;
     }
 }
