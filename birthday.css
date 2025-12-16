@@ -21,7 +21,7 @@ body{
     align-items: center;
     flex-wrap: wrap;
     gap: 100px 50px;
-    padding: 50px 0px;
+    padding: 100px 0px;
 }
 
 /* card */
@@ -104,7 +104,7 @@ body{
 
 
 .card2:hover{
-    height: 1420px;
+    height: 1430px;
 }
 
 .card3:hover{
