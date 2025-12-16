@@ -99,16 +99,16 @@ body{
 
 
 .card1:hover{
-    height: 500px;
+    height: 560px;
 }
 
 
 .card2:hover{
-    height: 1220px;
+    height: 1360px;
 }
 
 .card3:hover{
-    height: 900px;
+    height: 1000px;
 }
 
 @media (max-width:385px) {
@@ -122,6 +122,19 @@ body{
     }
 
     .container .card:hover .content p{
-        font-size: small;
+        font-size: 13px;
     }
+
+    .card1:hover{
+    height: 500px;
+}
+
+
+    .card2:hover{
+    height: 1220px;
+}
+
+    .card3:hover{
+    height: 900px;
+}
 }
